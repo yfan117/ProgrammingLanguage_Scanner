@@ -1,0 +1,10 @@
+int x;
+int x
+inttttt x;
+int x=2;
+int 111=2;
+int x=2l;
+long x12=2L;
+double i,j;
+i+=j;
+i-j=3;
